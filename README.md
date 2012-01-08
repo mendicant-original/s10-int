@@ -21,7 +21,7 @@ via email.
 
 ## Exercise Summary
 
-- Proposal an interesting mail server idea application to implement
+- Propose an interesting mail server idea application to implement
   - No two students should work on the same idea
   - Your idea should incorporate multi-user interactions in some way
   - If you get stuck, don't be afraid to ask for help.
